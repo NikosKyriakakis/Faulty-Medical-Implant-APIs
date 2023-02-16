@@ -1,0 +1,2 @@
+Faulty-Medical-Implant-APIs
+This is a demo program created for educational purposes and the aim was to familiarize with ASP.NET Core, RabbitMQ and microservice based architectures. Two REST APIs have been created which can be used to query and store data about faulty medical implant devices and associated events inspired by the ICIJ medical implants leak (for more info check here: https://www.icij.org/investigations/implant-files/). The system uses RabbitMQ as a means of asynchronous communication between the two services and a very basic in-memory role based authentication.
