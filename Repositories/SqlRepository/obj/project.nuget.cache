@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "5lpsaIsYDJAC0ovdX9Sf+OaEW2dkBBHqaWgzJ1ZiCY9rWGT1YLBMs5KQmp0NItriOzlUMW53Dm0PqmVb8zFuDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikos\\Desktop\\MedicalImplantApis\\Repositories\\SqlRepository\\SqlRepository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\genericrepository\\1.0.3\\genericrepository.1.0.3.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\microsoft.entityframeworkcore\\7.0.2\\microsoft.entityframeworkcore.7.0.2.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\microsoft.entityframeworkcore.abstractions\\7.0.2\\microsoft.entityframeworkcore.abstractions.7.0.2.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\microsoft.entityframeworkcore.analyzers\\7.0.2\\microsoft.entityframeworkcore.analyzers.7.0.2.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\microsoft.entityframeworkcore.relational\\7.0.2\\microsoft.entityframeworkcore.relational.7.0.2.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

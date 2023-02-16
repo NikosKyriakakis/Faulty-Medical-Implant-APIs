@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nikos\\Desktop\\MedicalImplantApis\\Repositories\\MongoRepository\\MongoRepository.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nikos\\Desktop\\MedicalImplantApis\\Repositories\\GenericRepository\\GenericRepository.csproj": {
+      "version": "1.0.3",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikos\\Desktop\\MedicalImplantApis\\Repositories\\GenericRepository\\GenericRepository.csproj",
+        "projectName": "GenericRepository",
+        "projectPath": "C:\\Users\\nikos\\Desktop\\MedicalImplantApis\\Repositories\\GenericRepository\\GenericRepository.csproj",
+        "packagesPath": "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages",
+        "outputPath": "C:\\Users\\nikos\\Desktop\\MedicalImplantApis\\Repositories\\GenericRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nikos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\nikos\\Desktop\\ImplantsWebAPIs\\Packages": {},
+          "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nikos\\Desktop\\MedicalImplantApis\\Repositories\\MongoRepository\\MongoRepository.csproj": {
+      "version": "1.0.2",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikos\\Desktop\\MedicalImplantApis\\Repositories\\MongoRepository\\MongoRepository.csproj",
+        "projectName": "MongoRepository",
+        "projectPath": "C:\\Users\\nikos\\Desktop\\MedicalImplantApis\\Repositories\\MongoRepository\\MongoRepository.csproj",
+        "packagesPath": "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages",
+        "outputPath": "C:\\Users\\nikos\\Desktop\\MedicalImplantApis\\Repositories\\MongoRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nikos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\nikos\\Desktop\\ImplantsWebAPIs\\Packages": {},
+          "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\nikos\\Desktop\\MedicalImplantApis\\Repositories\\GenericRepository\\GenericRepository.csproj": {
+                "projectPath": "C:\\Users\\nikos\\Desktop\\MedicalImplantApis\\Repositories\\GenericRepository\\GenericRepository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "GenericRepository": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.19.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\nikos\Desktop\MedicalImplantApis\RabbitMqExtension\bin\Debug\net7.0\RabbitMqExtension.deps.json
+C:\Users\nikos\Desktop\MedicalImplantApis\RabbitMqExtension\bin\Debug\net7.0\RabbitMqExtension.dll
+C:\Users\nikos\Desktop\MedicalImplantApis\RabbitMqExtension\bin\Debug\net7.0\RabbitMqExtension.pdb
+C:\Users\nikos\Desktop\MedicalImplantApis\RabbitMqExtension\bin\Debug\net7.0\GenericRepository.dll
+C:\Users\nikos\Desktop\MedicalImplantApis\RabbitMqExtension\bin\Debug\net7.0\GenericRepository.pdb
+C:\Users\nikos\Desktop\MedicalImplantApis\RabbitMqExtension\obj\Debug\net7.0\RabbitMqExtension.csproj.AssemblyReference.cache
+C:\Users\nikos\Desktop\MedicalImplantApis\RabbitMqExtension\obj\Debug\net7.0\RabbitMqExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikos\Desktop\MedicalImplantApis\RabbitMqExtension\obj\Debug\net7.0\RabbitMqExtension.AssemblyInfoInputs.cache
+C:\Users\nikos\Desktop\MedicalImplantApis\RabbitMqExtension\obj\Debug\net7.0\RabbitMqExtension.AssemblyInfo.cs
+C:\Users\nikos\Desktop\MedicalImplantApis\RabbitMqExtension\obj\Debug\net7.0\RabbitMqExtension.csproj.CoreCompileInputs.cache
+C:\Users\nikos\Desktop\MedicalImplantApis\RabbitMqExtension\obj\Debug\net7.0\RabbitMqExtension.csproj.CopyComplete
+C:\Users\nikos\Desktop\MedicalImplantApis\RabbitMqExtension\obj\Debug\net7.0\RabbitMqExtension.dll
+C:\Users\nikos\Desktop\MedicalImplantApis\RabbitMqExtension\obj\Debug\net7.0\refint\RabbitMqExtension.dll
+C:\Users\nikos\Desktop\MedicalImplantApis\RabbitMqExtension\obj\Debug\net7.0\RabbitMqExtension.pdb
+C:\Users\nikos\Desktop\MedicalImplantApis\RabbitMqExtension\obj\Debug\net7.0\ref\RabbitMqExtension.dll

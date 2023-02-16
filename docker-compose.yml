@@ -1,0 +1,52 @@
+version: ""
+
+services:
+  mongo:
+    image: mongo
+    container_name: devices-service
+    ports:
+      - 27017:27017
+    volumes:
+      - mongodbdata:/device_data/db
+
+  # sqlserver:
+  #   image: mcr.microsoft.com/mssql/server:2022-latest
+  #   container_name: events-service
+  #   environment:
+  #     SA_PASSWORD: "Adminxyz22#"
+  #     ACCEPT_EULA: "Y"
+  #   ports:
+  #     - 1433:1433
+  #   volumes:
+  #     - sqlserverdata:/events_data/db
+
+  rabbitmq:
+    image: rabbitmq:management
+    container_name: rabbitmq
+    ports:
+      - 5672:5672
+      - 15672:15672
+    volumes:
+      - rabbitmqdata:/var/lib/rabbitmq
+    hostname: rabbitmq
+
+  # apigateway:
+  #   container_name: api-gateway
+  #   image: ${DOCKER_REGISTRY-}apigateway
+  #   build:
+  #     context: .
+  #     dockerfile: ApiGateway/Dockerfile
+  #   ports:
+  #     - 8001:80
+
+  authentication_service:
+   container_name: authentication_api
+   image: ${DOCKER_REGISTRY-}authentication_api
+   build:
+    context: .
+    dockerfile: AuthenticationWebApi/Dockerfile
+
+volumes:
+  mongodbdata:
+  # sqlserverdata:
+  rabbitmqdata:

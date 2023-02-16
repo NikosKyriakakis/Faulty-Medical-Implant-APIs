@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "tXp/tV/EL18IoigT/pLTQ2AjAm4u+CWB9myo/Doa8LBzRbLtM/lzfnyYz30Z7taA6NUXp5ajIGnKWSXogCIcDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikos\\Desktop\\MedicalImplantApis\\Repositories\\MongoRepository\\MongoRepository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\microsoft.extensions.configuration.binder\\7.0.2\\microsoft.extensions.configuration.binder.7.0.2.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\mongodb.bson\\2.19.0\\mongodb.bson.2.19.0.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\mongodb.driver\\2.19.0\\mongodb.driver.2.19.0.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\mongodb.driver.core\\2.19.0\\mongodb.driver.core.2.19.0.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\mongodb.libmongocrypt\\1.7.0\\mongodb.libmongocrypt.1.7.0.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\snappier\\1.0.0\\snappier.1.0.0.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\zstdsharp.port\\0.6.2\\zstdsharp.port.0.6.2.nupkg.sha512",
+    "C:\\Users\\nikos\\RiderProjects\\EcommerceApp\\Packages\\genericrepository\\1.0.3\\genericrepository.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

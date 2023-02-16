@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SqlRepository</id>
+    <version>1.0.2</version>
+    <authors>SqlRepository</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="GenericRepository" version="1.0.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="7.0.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Relational" version="7.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\nikos\RiderProjects\EcommerceApp\Repositories\SqlRepository\bin\Debug\net7.0\SqlRepository.dll" target="lib\net7.0\SqlRepository.dll" />
+  </files>
+</package>
